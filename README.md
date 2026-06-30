@@ -1,13 +1,13 @@
 # Web Scraper using BeautifulSoup
 
 ## Intern ID
-(Your Intern ID)
+(CITS5499)
 
 ## Full Name
 Rutuja Kandalkar
 
-## No. of Weeks
-(Add your internship duration)
+## No. of Intership Week
+(22 June 2026 to 03 August 2026)
 
 ## Project Name
 Web Scraper using BeautifulSoup
